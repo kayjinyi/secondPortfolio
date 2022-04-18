@@ -5,7 +5,8 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 With these points in mind, in this homework you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first homework, we follow the AS AN / I WANT / SO THAT format. 
+Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first homework, we follow the AS AN / I WANT / SO THAT format.
+The deployed website is 
 * My portfolio looks like
 
     ![Updated.](./assets/images/../Screen%20Shot%202022-03-29%20at%209.51.20%20PM.png)
