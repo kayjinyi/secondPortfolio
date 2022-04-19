@@ -43,15 +43,7 @@ body {
     font-weight: bold;
     text-decoration: none;
   }
-  .thisisme{
-    display: flex;
-    background: linear-gradient(120deg, cyan 0%, cyan 50%, darkblue 0%, darkblue 50%);
-    justify-content: flex-end;
-  }
-  .thisisme h3{
-    background-color:var(--colorbor);
-    margin-right: 20px;
-  }
+
   .introduction
   {display: flex;
     justify-content: space-around;
@@ -193,6 +185,10 @@ body {
     main {
       width: 100%;
     }
+    .card-text {
+      font-size: small;
+      width:70%
+    }
     footer{
       width: 100%;
     }
@@ -204,10 +200,13 @@ body {
     main {
       width: 100%;
     }
+    .card-text {
+      font-size: xx-small;
+      width:90%
+    }
     footer{
       width: 100%;
     }  
       
   }
-  
-  
+ 

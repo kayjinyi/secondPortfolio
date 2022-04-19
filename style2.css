@@ -1,0 +1,9 @@
+.thisisme{
+    display: flex;
+    background: linear-gradient(120deg, cyan 0%, cyan 50%, darkblue 0%, darkblue 50%);
+    justify-content: flex-end;
+  }
+  .thisisme h3{
+    background-color:var(--colorbor);
+    margin-right: 20px;
+  }
