@@ -128,6 +128,11 @@ a {
 .card-text p {
   word-wrap: normal;
 }
+#cardsix {
+  /* flex: 4 0 100px; */
+  width: 100%;
+  background-image: url(./images/Fotofoto.png);
+}
 #cardone {
   /* flex: 4 0 100px; */
   width: 100%;
@@ -157,6 +162,7 @@ a {
   background-image: url(./images/projectfive.png);
   margin: 5px 0;
 }
+
 footer {
   display: flex;
   justify-content: space-around;
