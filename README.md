@@ -15,7 +15,7 @@ https://kayjinyi.github.io/secondPortfolio/
 - Those nav links can be clicked and will scroll to the corresponding section
 - The link "about work" scrolls to a section with titles images of the developers applications
 - The first application in the work section should be larger in size than the others
-- Clicking on the name of the applications should bring you to that deployed application
+- Clicking on the images of the applications should bring you to that deployed application
 - The layout of the page is responsive and adapts to the viewport so that it may be viewed on various sized screens and devices
 
 ---
