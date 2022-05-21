@@ -45,7 +45,6 @@ nav a {
   font-weight: bold;
   text-decoration: none;
 }
-
 #introduction {
   display: flex;
   justify-content: space-around;
@@ -96,14 +95,14 @@ nav a {
 #cardfive:hover {
   opacity: 50%;
 }
-.normal {
+/* .normal {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   flex-direction: row;
   margin: 5px 0;
   height: 35vh;
-}
+} */
 .special {
   display: flex;
 }
@@ -113,7 +112,7 @@ nav a {
   padding: 0 20px;
   margin: 5px 0;
   display: flex;
-  height: 15vh;
+  height: 35vh;
   flex-direction: column;
 }
 .card-text {
@@ -123,7 +122,7 @@ nav a {
 }
 a {
   color: var(--colorbody);
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 .card-text p {
   word-wrap: normal;
@@ -142,8 +141,8 @@ a {
 #cardthree,
 #cardfour,
 #cardfive {
-  width: 45%;
-  margin: 5px 0;
+  width: 100%;
+  /* margin: 5px 0; */
   /* flex-grow: 1 0 50px; */
 }
 #cardtwo {
